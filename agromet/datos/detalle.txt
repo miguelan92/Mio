@@ -1,0 +1,7 @@
+BashDatisEstacionesAgromet.sh = extrae informacion de la pagina de agromet en una sola linea.
+TradDatosEstaciones.c         = Busca informacion dentro de la linea y ordena.
+BashTrad.sh                   = Ejecuta el programa TradDatosEstaciones.c en cada uno de los archivos descargados.
+Convcsv.c 		      = Busca informacion y la escribe en formato de que pide la base de datos.
+BashConvcsv.sh                = Ejecuta Convcsv.c en todos los archivos
+ConecBD.sh		      = Conexion a base de datos
+testsql.sql                   = Query BD

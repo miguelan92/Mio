@@ -1,0 +1,2 @@
+BashIdAgromet.sh = extrae informacion sobre estaciones de agromet y procesa con DatosListos.c
+DatosListos.c    = revisa la informacion extraida desde BashIdAgromet y extrae Id-estacion Coordenadas y nombre de estacion
